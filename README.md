@@ -1,0 +1,1 @@
+A simple bash script which assists both facilitators and students in tracking class tasks by creating a folder structure, reading from list of student submissions, and reminding the facilitator which student didn't submit or haven't submitted yet, and all of these done from the terminal.

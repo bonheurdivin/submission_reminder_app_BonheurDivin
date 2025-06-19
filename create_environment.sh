@@ -28,7 +28,7 @@ if [ -d "$DIR" ]; then
     exit 1
 else
     mkdir -p "$DIR"
-    echo "The Directory '$DIR' has been successful created"
+    echo "The Directory '$DIR' has been successfully created"
     echo "_________________"
     echo "Saving up the environment under '$DIR' Directory"
 fi
